@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xD6E8141476d6C79af0d033C8C85c3393062254c5"
+    },
+    {
+      "id": 2,
+      "name": "Price in USDX",
+      "value": "0.0005"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "Neonix Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "Neonix is an NFT-powered token, unlocking rare digital assets, gaming, and collectibles on the BNB Smart Chain."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "Neonix"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0xFf6547A74630464F4c26A791E0A5cBC671c4ad40"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "NNX"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "1000000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "300000000"
+    },
+    {
+      "id": 11,
+      "name": "Alert text",
+      "value": "Buy and receive your tokens immediately!"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2025-01-15T23:59:59"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "5"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0x5B200D43f711B48564f80114195943946078e2C0"
+    },
+    {
+      "id": 15,
+      "name": "Telegram Link",
+      "value": "https://t.me/CryptTechAI"
+    },
+    {
+      "id": 16,
+      "name": "Twitter Link",
+      "value": "https://twitter.com/"
+    },
+    {
+      "id": 17,
+      "name": "Listing Price",
+      "value": "0.0007"
+    },
+    {
+      "id": 18,
+      "name": "Chain Name",
+      "value": "BNB Smart Chain"
+    },
+    {
+      "id": 19,
+      "name": "Chain ID",
+      "value": "56"
+    },
+    {
+      "id": 20,
+      "name": "Native Coin",
+      "value": "BNB"
+    },
+    {
+      "id": 21,
+      "name": "Minimum Buy in USDX",
+      "value": "10"
+    },
+    {
+      "id": 22,
+      "name": "Maximum Buy in USDX",
+      "value": "5000"
+    }
+    
+  ]
+  
